@@ -7,5 +7,7 @@
 （2）分别计算upclog井的声阻抗和反射系数曲线；
 （3）计算合成地震记录
 （4）将子波，密度曲线，声波曲线，声阻抗曲线，反射系数曲线，合成地震记录显示在一张图上；
+打包好的.exe文件30M，限制只能25M
+
 ![image](https://github.com/Iamtianyuyang/-/assets/96817764/3a88a126-801e-45e2-8822-33d1167b7d79)
 ![image](https://github.com/Iamtianyuyang/-/assets/96817764/af68dd9e-0b11-468a-9d9f-fa4275214d8c)
